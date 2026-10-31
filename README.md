@@ -14,11 +14,11 @@ Currently focused on game programming, with a strong interest in gameplay mechan
 ## 🎮 Necrofest
 
 <p align="center">
-    ![Genre](https://img.shields.io/badge/Genre-Roguelike-blue)
-    ![Deck Building](https://img.shields.io/badge/Deck--Building-blue)
-    ![Adventure](https://img.shields.io/badge/Adventure-blue)
-    ![Action](https://img.shields.io/badge/Action-blue)
-    ![Horror](https://img.shields.io/badge/Horror-blue)
+    <img src="https://img.shields.io/badge/Genre-Roguelike-blue" />
+    <img src="https://img.shields.io/badge/Deck--Building-blue" />
+    <img src="https://img.shields.io/badge/Adventure-blue" />
+    <img src="https://img.shields.io/badge/Action-blue" />
+    <img src="https://img.shields.io/badge/Horror-blue" />
 </p>
 ![Engine](https://img.shields.io/badge/Engine-Unity-black)
 ![Language](https://img.shields.io/badge/Language-C%23-purple)
