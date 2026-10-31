@@ -39,9 +39,9 @@ Build ridiculous card combos, pick powers you probably shouldn’t trust, and st
 
 <p align="center">
   <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Necrofest/Necrofest1.png" width="30%" />
-  <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Necrofest/Necrofest2.png" width="30%" />
-  /<img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Necrofest/Necrofest3.png" width="30%" />
-  <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Necrofest/Necrofest4.png" width="30%" />
+  <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Necrofest/Necrofest2.png" width="30%" >
+  <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Necrofest/Necrofest3.png" width="30%" />
+  <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Necrofest/Necrofest4.png" width="30%" >
 </p>
 
 ### 🎬 Gameplay Trailer
