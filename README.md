@@ -38,15 +38,17 @@ Build ridiculous card combos, pick powers you probably shouldn’t trust, and st
 - **Main Programmer:** Took primary responsibility for the game's programming and gameplay system implementation. Including RPG System, Card Effects and Dungeon Builder.
 
 <p align="center">
-  <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Necrofest/Necrofest1.png" width="49%" />
-  <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Necrofest/Necrofest2.png" width="49%" />
-  <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Necrofest/Necrofest3.png" width="49%" />
-  <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Necrofest/Necrofest4.png" width="49%" />
+  <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Necrofest/Necrofest1.png" width="30%" />
+  <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Necrofest/Necrofest2.png" width="30%" />
+  /<img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Necrofest/Necrofest3.png" width="30%" />
+  <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Necrofest/Necrofest4.png" width="30%" />
 </p>
+
+### 🎬 Gameplay Trailer
 <p align="center">
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=U0f2WEjFt5Q
 " target="_blank"><img src="http://img.youtube.com/vi/U0f2WEjFt5Q/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
 </p>
 
 ## 🎮 Yoink
