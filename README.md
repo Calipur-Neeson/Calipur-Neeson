@@ -20,9 +20,17 @@ Currently focused on game programming, with a strong interest in gameplay mechan
     <img src="https://img.shields.io/badge/Action-blue" />
     <img src="https://img.shields.io/badge/Horror-blue" />
 </p>
-![Engine](https://img.shields.io/badge/Engine-Unity-black)
-![Language](https://img.shields.io/badge/Language-C%23-purple)
-![Role](https://img.shields.io/badge/Role-Main Programmer, Engine Implementer-green)
+<p align="center">
+    <img src="https://img.shields.io/badge/Engine-Unity-black" />
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Language-C%23-purple" />
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Role-Main Programmer-green" />
+    <img src="https://img.shields.io/badge/Engine Implementer-green" />
+</p>
+
 
 ## 🎮 Yoink
 
