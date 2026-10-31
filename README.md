@@ -9,7 +9,9 @@ Currently focused on game programming, with a strong interest in gameplay mechan
 # Social Links
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Calipur-Neeson)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hanlin-ni-倪翰林-561318328/)  
 
-
+<br />
+<br />
+---
 # Experiences 
 ## 🎮 Necrofest
 
@@ -52,7 +54,8 @@ Build ridiculous card combos, pick powers you probably shouldn’t trust, and st
 alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
 </p>
 **[▶ Play on itch.io](https://calipurn-neeson.itch.io/necrofest)**
-
+<br />
+<br />
 ---
 
 ## 🎮 Yoink
