@@ -38,10 +38,10 @@ Build ridiculous card combos, pick powers you probably shouldn’t trust, and st
 - **Main Programmer:** Took primary responsibility for the game's programming and gameplay system implementation. Including RPG System, Card Effects and Dungeon Builder.
 
 <p align="center">
-  <img src="(https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Necrofest/Necrofest1.png)" width="49%" />
-  <img src="(https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Necrofest/Necrofest2.png)" width="49%" />
-  <img src="(https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Necrofest/Necrofest3.png)" width="49%" />
-  <img src="(https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Necrofest/Necrofest4.png)" width="49%" />
+  <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Necrofest/Necrofest1.png" width="49%" />
+  <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Necrofest/Necrofest2.png" width="49%" />
+  <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Necrofest/Necrofest3.png" width="49%" />
+  <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Necrofest/Necrofest4.png" width="49%" />
 </p>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=U0f2WEjFt5Q">
