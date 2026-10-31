@@ -11,3 +11,16 @@ Currently focused on game programming, with a strong interest in gameplay mechan
 
 
 ## Experiences 
+## 🎮 Yoink
+
+**3D Platformer | Unity | C#**
+
+A chaotic 3D bouncing adventure where gravity takes a day off and reflexes are put to the test.
+
+Bounce through challenging obstacles, navigate unpredictable platforms, avoid deadly traps, and collect shiny items on your way to victory. Easy to pick up, but much harder to master.
+
+<p align="center">
+  <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Yoink/Yoink1.png" width="32%" />
+  <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Yoink/Yoink2.png" width="32%" />
+  <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Yoink/Yoink3.png" width="32%" />
+</p>
