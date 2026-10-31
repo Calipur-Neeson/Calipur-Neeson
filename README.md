@@ -44,9 +44,9 @@ Build ridiculous card combos, pick powers you probably shouldn’t trust, and st
   <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Necrofest/Necrofest4.png" width="49%" />
 </p>
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=U0f2WEjFt5Q">
-    <img src="https://img.youtube.com/vi/U0f2WEjFt5Q/maxresdefault.jpg" width="100%" />
-  </a>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=U0f2WEjFt5Q
+" target="_blank"><img src="http://img.youtube.com/vi/U0f2WEjFt5Q/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 </p>
 
 ## 🎮 Yoink
