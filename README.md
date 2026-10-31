@@ -19,8 +19,14 @@ A chaotic 3D bouncing adventure where gravity takes a day off and reflexes are p
 
 Bounce through challenging obstacles, navigate unpredictable platforms, avoid deadly traps, and collect shiny items on your way to victory. Easy to pick up, but much harder to master.
 
+My Contribution
+
+Level Design – Designed and built game levels, creating platform layouts, obstacles, and challenges to deliver an engaging gameplay experience.
+
 <p align="center">
   <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Yoink/Yoink1.png" width="32%" />
   <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Yoink/Yoink2.png" width="32%" />
   <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Yoink/Yoink3.png" width="32%" />
 </p>
+
+Play the Game: https://calipurn-neeson.itch.io/yoink
