@@ -11,7 +11,9 @@ Currently focused on game programming, with a strong interest in gameplay mechan
 
 <br />
 <br />
+
 ---
+
 # Experiences 
 ## 🎮 Necrofest
 
@@ -56,6 +58,7 @@ alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
 **[▶ Play on itch.io](https://calipurn-neeson.itch.io/necrofest)**
 <br />
 <br />
+
 ---
 
 ## 🎮 Yoink
