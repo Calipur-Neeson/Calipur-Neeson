@@ -15,6 +15,37 @@ Currently focused on game programming, with a strong interest in gameplay mechan
 ---
 
 # Experiences 
+## 🎮 Educational VR Game
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Genre-VR-blue" />
+    <img src="https://img.shields.io/badge/Education-blue" />
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Engine-Unity-black" />
+    <img src="https://img.shields.io/badge/Unity XR Interaction Toolkit-black" />
+    <img src="https://img.shields.io/badge/Language-C%23-purple" />
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Role-Main_Programmer-green" />
+</p>
+
+The game allows players to take on the role of a teacher, experience common classroom scenarios, and enhance their problem-solving and decision-making skills.​
+
+**My Contribution**
+- **Main Programmer:** Implemented VR gameplay features and interactions for the classroom simulation.
+
+<p align="center">
+  <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/VR_Education/Media1.gif" width="40%" />
+    <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/VR_Education/Media2.gif" width="40%" />
+    <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/VR_Education/Media3.gif" width="80%" />
+</p>
+
+<br />
+<br />
+
+---
+
 ## 🎮 Daisy Town Disaster
 
 <p align="center">
