@@ -33,13 +33,14 @@ Currently focused on game programming, with a strong interest in gameplay mechan
 <p align="center">
     <img src="https://img.shields.io/badge/Role-Main_Programmer-green" />
 </p>
+
 The Lucky 4 cowboys must save Daisy Town from the evil Cassidy family's powerful mechanical contraptions. In the 3D CO-OP shooter that blends wild west action with bullet-hell battles.
 
 **My Contribution**
 - **Main Programmer:** Multiplay system and bullet hell design 
 
 <p align="center">
-  <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Daisy/gif.gif" width="100%" />
+  <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Daisy/gif.gif" width="80%" />
 </p>
 
 **[✨ Instagram Page](https://www.instagram.com/daisytowndisaster?dlrf=dG5ldjJ2NHczbG5u)**
