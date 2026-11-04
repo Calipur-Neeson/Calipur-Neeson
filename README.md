@@ -49,12 +49,7 @@ Build ridiculous card combos, pick powers you probably shouldn’t trust, and st
   <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Necrofest/Necrofest4.png" width="30%" />
 </p>
 
-### 🎬 Gameplay Trailer
-<p align="center">
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=U0f2WEjFt5Q
-" target="_blank"><img src="http://img.youtube.com/vi/U0f2WEjFt5Q/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
-</p>
+**[🎬 Gameplay Trailer](http://www.youtube.com/watch?feature=player_embedded&v=U0f2WEjFt5Q)**
 
 **[▶ Play on itch.io](https://calipurn-neeson.itch.io/necrofest)**
 
