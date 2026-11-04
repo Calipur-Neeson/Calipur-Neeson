@@ -19,7 +19,7 @@ Currently focused on game programming, with a strong interest in gameplay mechan
 
 <p align="center">
     <img src="https://img.shields.io/badge/Engine-Unity-black" />
-    <img src="https://img.shields.io/badge/Framework-BepInEx-purple" />
+    <img src="https://img.shields.io/badge/Framework-BepInEx-orange" />
     <img src="https://img.shields.io/badge/Language-C%23-purple" />
     <img src="https://img.shields.io/badge/IDE-Rider-blue" />
 </p>
