@@ -15,6 +15,33 @@ Currently focused on game programming, with a strong interest in gameplay mechan
 ---
 
 # Experiences 
+## 🎮 Raft_Mod
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Engine-Unity-black" />
+    <img src="https://img.shields.io/badge/Framework-BepInEx-purple" />
+    <img src="https://img.shields.io/badge/Language-C%23-purple" />
+    <img src="https://img.shields.io/badge/IDE-Rider-blue" />
+</p>
+
+A mod for Raft that extends the original game with additional
+features and gameplay functionality.
+
+**My Contribution**
+- **Mod Development:** Reverse engineering for Raft, implement new features to existing system.
+
+<p align="center">
+  <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/RaftMod/2.gif" width="40%" />
+  <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/RaftMod/1.gif" width="40%" />
+</p>
+
+<br />
+<br />
+
+**[🌐 Mod Page](https://www.nexusmods.com/raft/mods/134)**
+
+---
+
 ## 🎮 Educational VR Game
 
 <p align="center">
