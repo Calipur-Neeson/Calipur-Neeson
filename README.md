@@ -15,6 +15,40 @@ Currently focused on game programming, with a strong interest in gameplay mechan
 ---
 
 # Experiences 
+## 🎮 Daisy Town Disaster
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Genre-Multiplayer-blue" />
+    <img src="https://img.shields.io/badge/CO--OP-blue" />
+    <img src="https://img.shields.io/badge/First_Person-blue" />
+    <img src="https://img.shields.io/badge/Shooter-blue" />
+    <img src="https://img.shields.io/badge/Bullet--Hell-blue" />
+    <img src="https://img.shields.io/badge/Wild--Western-blue" />
+    <img src="https://img.shields.io/badge/Cowboy-blue" />
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Engine-Unity-black" />
+    <img src="https://img.shields.io/badge/Language-C%23-purple" />
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Role-Main_Programmer-green" />
+</p>
+The Lucky 4 cowboys must save Daisy Town from the evil Cassidy family's powerful mechanical contraptions. In the 3D CO-OP shooter that blends wild west action with bullet-hell battles.
+
+**My Contribution**
+- **Main Programmer:** Multiplay system and bullet hell design 
+
+<p align="center">
+  <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Daisy/gif.gif" width="100%" />
+</p>
+
+**[✨ Instagram Page](https://www.instagram.com/daisytowndisaster?dlrf=dG5ldjJ2NHczbG5u)**
+
+<br />
+<br />
+
+---
+
 ## 🎮 Necrofest
 
 <p align="center">
