@@ -14,6 +14,18 @@ Currently focused on game programming, with a strong interest in gameplay mechan
 
 ---
 
+# Internship Experiences — Hovi
+
+Worked as a Game Programmer, contributing to multiple game development projects.
+
+Key Responsibilities：
+-Implemented gameplay mechanics and features.
+-Developed and maintained gameplay systems.
+-Integrated features into existing projects and collaborated with team members.
+-Worked on visual effects and particle systems.
+
+---
+
 # Experiences 
 ## 🎮 Raft_Mod
 
