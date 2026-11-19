@@ -24,6 +24,15 @@ Key Responsibilities：
 - Integrated features into existing projects and collaborated with team members.
 - Worked on visual effects and particle systems.
 
+## 🎮 Necroveil
+**My Contribution**
+- **Strafe Jump:** Implemented strafe jumping mechanics to enhance player movement and mobility.
+- **Combat Feedback:** Developed combat feedback effects, including camera shake, impact visual effects, and hit-stop to make combat interactions feel more responsive and impactful.
+<p align="center">
+  <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Necroveil/StrafeJump.gif" width="40%" />
+  <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Necroveil/CombatFeedback.gif" width="40%" />
+</p>
+
 ---
 
 # Experiences 
