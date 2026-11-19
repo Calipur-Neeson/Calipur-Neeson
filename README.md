@@ -14,7 +14,7 @@ Currently focused on game programming, with a strong interest in gameplay mechan
 
 ---
 
-# Internship Experiences — Hovi
+# Internship Experiences — Hovi (Finland)
 
 Worked as a Game Programmer, contributing to multiple game development projects.
 
@@ -44,7 +44,7 @@ Key Responsibilities：
 
 ---
 
-# Experiences 
+# Project Experiences 
 ## 🎮 Raft_Mod
 
 <p align="center">
@@ -72,7 +72,7 @@ features and gameplay functionality.
 
 ---
 
-## 🎮 Educational VR Game
+## 🥽ᯅ🎮 Educational VR Game
 
 <p align="center">
     <img src="https://img.shields.io/badge/Genre-VR-blue" />
