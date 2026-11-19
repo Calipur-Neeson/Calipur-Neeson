@@ -45,6 +45,39 @@ Key Responsibilities：
 ---
 
 # Project Experiences 
+## 💻🚥🚗🚚🚛 Unity DOTS Traffic Simulation
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Unity-blue" />
+    <img src="https://img.shields.io/badge/C#-blue" />
+    <img src="https://img.shields.io/badge/ECS-blue" />
+    <img src="https://img.shields.io/badge/DOTS-blue" />
+</p>
+
+**My Contribution**
+- **System Architecture:** Designed and implemented an ECS-based traffic simulation system using Unity DOTS.
+- **Traffic Simulation:** Developed vehicle movement, waypoint navigation, road networks, traffic lights, and vehicle-following systems.
+- **Performance Optimization:** Applied Burst Compiler and Job System to improve simulation performance.
+- **Performance Testing:** Conducted experiments with different vehicle counts to evaluate frame time, CPU workload, and memory usage.
+
+<p align="center">
+  <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Traffic/Picture1.png" width="40%" />
+  <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Traffic/Picture2.png" width="40%" />
+  <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Traffic/Picture3.png" width="40%" />
+  <a href="https://www.youtube.com/watch?v=tL8uUxcMt5k">
+    <img src="https://img.youtube.com/vi/tL8uUxcMt5k/maxresdefault.jpg" width="40%" />
+  </a>
+</p>
+
+**Resources**
+**[📄 Read My Thesis]()**
+**[💻 Source Code](https://github.com/Calipur-Neeson/Unity_DOTS_Tutorial_SimpleTrafficStimulation.git)**
+
+<br />
+<br />
+
+---
+
 ## 🎮 Raft_Mod
 
 <p align="center">
