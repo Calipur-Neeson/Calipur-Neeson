@@ -67,7 +67,7 @@ Key Responsibilities：
 </p>
 
 **Resources**
-- **[🎬 Gameplay Trailer](https://www.youtube.com/watch?v=tL8uUxcMt5k)**
+- **[🎬 YouTube Video](https://www.youtube.com/watch?v=tL8uUxcMt5k)**
 - **[📄 Read My Thesis]()**
 - **[💻 Source Code](https://github.com/Calipur-Neeson/Unity_DOTS_Tutorial_SimpleTrafficStimulation.git)**
 
