@@ -24,6 +24,15 @@ Key Responsibilities：
 - Integrated features into existing projects and collaborated with team members.
 - Worked on visual effects and particle systems.
 
+## 🎮 Niki's Threads & Needles
+**My Contribution**
+- **Particle Systems:** Created and implemented particle effects for stage visuals, enhancing the game's atmosphere and visual presentation.
+- **UI Development:** Implemented interactive UI features, including a smartphone-style interface.
+<p align="center">
+  <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Niki's%20Threads%20%26%20Needles/Particle.gif" width="40%" />
+  <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Niki's%20Threads%20%26%20Needles/PhoneUI.gif" width="40%" />
+</p>
+
 ## 🎮 Necroveil
 **My Contribution**
 - **Strafe Jump:** Implemented strafe jumping mechanics to enhance player movement and mobility.
