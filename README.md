@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Hanlin Ni, you can also call me Nesson😁
+### Hi there 👋, my name is Hanlin Ni, you can also call me Neeson😁
 #### Game programmer, developer 
 <p align="center">
   <img src="https://github.com/Calipur-Neeson/Calipur-Neeson/blob/main/Banner.png" width="100%" />
